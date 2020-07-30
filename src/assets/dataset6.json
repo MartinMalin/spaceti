@@ -1,0 +1,44 @@
+{
+  "buckets": [
+    {
+      "key": 4,
+      "doc_count": 432,
+      "histogram": {
+        "buckets": [
+          {
+            "key_as_string": "13:00:00",
+            "key": 39600000,
+            "doc_count": 108,
+            "data": {
+              "value": 42.31175925925926
+            }
+          },
+          {
+            "key_as_string": "14:00:00",
+            "key": 43200000,
+            "doc_count": 108,
+            "data": {
+              "value": 51.27787037037037
+            }
+          },
+          {
+            "key_as_string": "15:00:00",
+            "key": 46800000,
+            "doc_count": 108,
+            "data": {
+              "value": 51.756203703703704
+            }
+          },
+          {
+            "key_as_string": "16:00:00",
+            "key": 50400000,
+            "doc_count": 108,
+            "data": {
+              "value": 41.48972222222223
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

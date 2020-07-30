@@ -1,0 +1,888 @@
+{
+  "buckets": [
+    {
+      "key": 1,
+      "doc_count": 2592,
+      "histogram": {
+        "buckets": [
+          {
+            "key_as_string": "00:00:00",
+            "key": 79200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "01:00:00",
+            "key": 82800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "02:00:00",
+            "key": 0,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "03:00:00",
+            "key": 3600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "04:00:00",
+            "key": 7200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "05:00:00",
+            "key": 10800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "06:00:00",
+            "key": 14400000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "07:00:00",
+            "key": 18000000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "08:00:00",
+            "key": 21600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "09:00:00",
+            "key": 25200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "10:00:00",
+            "key": 28800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "11:00:00",
+            "key": 32400000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "12:00:00",
+            "key": 36000000,
+            "doc_count": 108,
+            "data": {
+              "value": 3.5658333333333334
+            }
+          },
+          {
+            "key_as_string": "13:00:00",
+            "key": 39600000,
+            "doc_count": 108,
+            "data": {
+              "value": 0.9680555555555556
+            }
+          },
+          {
+            "key_as_string": "14:00:00",
+            "key": 43200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "15:00:00",
+            "key": 46800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "16:00:00",
+            "key": 50400000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "17:00:00",
+            "key": 54000000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "18:00:00",
+            "key": 57600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "19:00:00",
+            "key": 61200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "20:00:00",
+            "key": 64800000,
+            "doc_count": 108,
+            "data": {
+              "value": 1.8899074074074076
+            }
+          },
+          {
+            "key_as_string": "21:00:00",
+            "key": 68400000,
+            "doc_count": 108,
+            "data": {
+              "value": 1.119351851851852
+            }
+          },
+          {
+            "key_as_string": "22:00:00",
+            "key": 72000000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "23:00:00",
+            "key": 75600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          }
+        ]
+      }
+    },
+    {
+      "key": 2,
+      "doc_count": 2592,
+      "histogram": {
+        "buckets": [
+          {
+            "key_as_string": "00:00:00",
+            "key": 79200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "01:00:00",
+            "key": 82800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "02:00:00",
+            "key": 0,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "03:00:00",
+            "key": 3600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "04:00:00",
+            "key": 7200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "05:00:00",
+            "key": 10800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "06:00:00",
+            "key": 14400000,
+            "doc_count": 108,
+            "data": {
+              "value": 0.4413888888888889
+            }
+          },
+          {
+            "key_as_string": "07:00:00",
+            "key": 18000000,
+            "doc_count": 108,
+            "data": {
+              "value": 6.997962962962963
+            }
+          },
+          {
+            "key_as_string": "08:00:00",
+            "key": 21600000,
+            "doc_count": 108,
+            "data": {
+              "value": 13.94138888888889
+            }
+          },
+          {
+            "key_as_string": "09:00:00",
+            "key": 25200000,
+            "doc_count": 108,
+            "data": {
+              "value": 39.962777777777774
+            }
+          },
+          {
+            "key_as_string": "10:00:00",
+            "key": 28800000,
+            "doc_count": 108,
+            "data": {
+              "value": 46.61425925925926
+            }
+          },
+          {
+            "key_as_string": "11:00:00",
+            "key": 32400000,
+            "doc_count": 108,
+            "data": {
+              "value": 58.31388888888888
+            }
+          },
+          {
+            "key_as_string": "12:00:00",
+            "key": 36000000,
+            "doc_count": 108,
+            "data": {
+              "value": 51.57416666666667
+            }
+          },
+          {
+            "key_as_string": "13:00:00",
+            "key": 39600000,
+            "doc_count": 108,
+            "data": {
+              "value": 55.661388888888894
+            }
+          },
+          {
+            "key_as_string": "14:00:00",
+            "key": 43200000,
+            "doc_count": 108,
+            "data": {
+              "value": 59.69546296296296
+            }
+          },
+          {
+            "key_as_string": "15:00:00",
+            "key": 46800000,
+            "doc_count": 108,
+            "data": {
+              "value": 64.93824074074074
+            }
+          },
+          {
+            "key_as_string": "16:00:00",
+            "key": 50400000,
+            "doc_count": 108,
+            "data": {
+              "value": 56.971296296296295
+            }
+          },
+          {
+            "key_as_string": "17:00:00",
+            "key": 54000000,
+            "doc_count": 108,
+            "data": {
+              "value": 50.94546296296296
+            }
+          },
+          {
+            "key_as_string": "18:00:00",
+            "key": 57600000,
+            "doc_count": 108,
+            "data": {
+              "value": 19.94148148148148
+            }
+          },
+          {
+            "key_as_string": "19:00:00",
+            "key": 61200000,
+            "doc_count": 108,
+            "data": {
+              "value": 4.55037037037037
+            }
+          },
+          {
+            "key_as_string": "20:00:00",
+            "key": 64800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "21:00:00",
+            "key": 68400000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "22:00:00",
+            "key": 72000000,
+            "doc_count": 108,
+            "data": {
+              "value": 2.9979629629629625
+            }
+          },
+          {
+            "key_as_string": "23:00:00",
+            "key": 75600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          }
+        ]
+      }
+    },
+    {
+      "key": 3,
+      "doc_count": 2592,
+      "histogram": {
+        "buckets": [
+          {
+            "key_as_string": "00:00:00",
+            "key": 79200000,
+            "doc_count": 108,
+            "data": {
+              "value": 0.7613888888888889
+            }
+          },
+          {
+            "key_as_string": "01:00:00",
+            "key": 82800000,
+            "doc_count": 108,
+            "data": {
+              "value": 0.7530555555555556
+            }
+          },
+          {
+            "key_as_string": "02:00:00",
+            "key": 0,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "03:00:00",
+            "key": 3600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "04:00:00",
+            "key": 7200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "05:00:00",
+            "key": 10800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "06:00:00",
+            "key": 14400000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "07:00:00",
+            "key": 18000000,
+            "doc_count": 108,
+            "data": {
+              "value": 3.233611111111111
+            }
+          },
+          {
+            "key_as_string": "08:00:00",
+            "key": 21600000,
+            "doc_count": 108,
+            "data": {
+              "value": 13.41462962962963
+            }
+          },
+          {
+            "key_as_string": "09:00:00",
+            "key": 25200000,
+            "doc_count": 108,
+            "data": {
+              "value": 31.321018518518517
+            }
+          },
+          {
+            "key_as_string": "10:00:00",
+            "key": 28800000,
+            "doc_count": 108,
+            "data": {
+              "value": 15.844814814814814
+            }
+          },
+          {
+            "key_as_string": "11:00:00",
+            "key": 32400000,
+            "doc_count": 108,
+            "data": {
+              "value": 18.105833333333333
+            }
+          },
+          {
+            "key_as_string": "12:00:00",
+            "key": 36000000,
+            "doc_count": 108,
+            "data": {
+              "value": 35.63064814814815
+            }
+          },
+          {
+            "key_as_string": "13:00:00",
+            "key": 39600000,
+            "doc_count": 108,
+            "data": {
+              "value": 35.22222222222222
+            }
+          },
+          {
+            "key_as_string": "14:00:00",
+            "key": 43200000,
+            "doc_count": 108,
+            "data": {
+              "value": 49.33462962962963
+            }
+          },
+          {
+            "key_as_string": "15:00:00",
+            "key": 46800000,
+            "doc_count": 108,
+            "data": {
+              "value": 54.18518518518518
+            }
+          },
+          {
+            "key_as_string": "16:00:00",
+            "key": 50400000,
+            "doc_count": 108,
+            "data": {
+              "value": 48.34740740740741
+            }
+          },
+          {
+            "key_as_string": "17:00:00",
+            "key": 54000000,
+            "doc_count": 108,
+            "data": {
+              "value": 40.52759259259259
+            }
+          },
+          {
+            "key_as_string": "18:00:00",
+            "key": 57600000,
+            "doc_count": 108,
+            "data": {
+              "value": 18.01648148148148
+            }
+          },
+          {
+            "key_as_string": "19:00:00",
+            "key": 61200000,
+            "doc_count": 108,
+            "data": {
+              "value": 4.201666666666666
+            }
+          },
+          {
+            "key_as_string": "20:00:00",
+            "key": 64800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "21:00:00",
+            "key": 68400000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "22:00:00",
+            "key": 72000000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "23:00:00",
+            "key": 75600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          }
+        ]
+      }
+    },
+    {
+      "key": 4,
+      "doc_count": 2592,
+      "histogram": {
+        "buckets": [
+          {
+            "key_as_string": "00:00:00",
+            "key": 79200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "01:00:00",
+            "key": 82800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "02:00:00",
+            "key": 0,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "03:00:00",
+            "key": 3600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "04:00:00",
+            "key": 7200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "05:00:00",
+            "key": 10800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "06:00:00",
+            "key": 14400000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "07:00:00",
+            "key": 18000000,
+            "doc_count": 108,
+            "data": {
+              "value": 4.0936111111111115
+            }
+          },
+          {
+            "key_as_string": "08:00:00",
+            "key": 21600000,
+            "doc_count": 108,
+            "data": {
+              "value": 9.686203703703702
+            }
+          },
+          {
+            "key_as_string": "09:00:00",
+            "key": 25200000,
+            "doc_count": 108,
+            "data": {
+              "value": 20.833333333333332
+            }
+          },
+          {
+            "key_as_string": "10:00:00",
+            "key": 28800000,
+            "doc_count": 108,
+            "data": {
+              "value": 35.727407407407405
+            }
+          },
+          {
+            "key_as_string": "11:00:00",
+            "key": 32400000,
+            "doc_count": 108,
+            "data": {
+              "value": 52.84564814814815
+            }
+          },
+          {
+            "key_as_string": "12:00:00",
+            "key": 36000000,
+            "doc_count": 108,
+            "data": {
+              "value": 36.48657407407408
+            }
+          },
+          {
+            "key_as_string": "13:00:00",
+            "key": 39600000,
+            "doc_count": 108,
+            "data": {
+              "value": 51.88796296296296
+            }
+          },
+          {
+            "key_as_string": "14:00:00",
+            "key": 43200000,
+            "doc_count": 108,
+            "data": {
+              "value": 53.65518518518519
+            }
+          },
+          {
+            "key_as_string": "15:00:00",
+            "key": 46800000,
+            "doc_count": 108,
+            "data": {
+              "value": 61.51064814814814
+            }
+          },
+          {
+            "key_as_string": "16:00:00",
+            "key": 50400000,
+            "doc_count": 108,
+            "data": {
+              "value": 59.64185185185185
+            }
+          },
+          {
+            "key_as_string": "17:00:00",
+            "key": 54000000,
+            "doc_count": 108,
+            "data": {
+              "value": 33.42675925925926
+            }
+          },
+          {
+            "key_as_string": "18:00:00",
+            "key": 57600000,
+            "doc_count": 108,
+            "data": {
+              "value": 18.646018518518517
+            }
+          },
+          {
+            "key_as_string": "19:00:00",
+            "key": 61200000,
+            "doc_count": 108,
+            "data": {
+              "value": 4.556574074074074
+            }
+          },
+          {
+            "key_as_string": "20:00:00",
+            "key": 64800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "21:00:00",
+            "key": 68400000,
+            "doc_count": 108,
+            "data": {
+              "value": 2.214074074074074
+            }
+          },
+          {
+            "key_as_string": "22:00:00",
+            "key": 72000000,
+            "doc_count": 108,
+            "data": {
+              "value": 3.486666666666667
+            }
+          },
+          {
+            "key_as_string": "23:00:00",
+            "key": 75600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          }
+        ]
+      }
+    },
+    {
+      "key": 5,
+      "doc_count": 2592,
+      "histogram": {
+        "buckets": [
+          {
+            "key_as_string": "00:00:00",
+            "key": 79200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "01:00:00",
+            "key": 82800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "02:00:00",
+            "key": 0,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "03:00:00",
+            "key": 3600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "04:00:00",
+            "key": 7200000,
+            "doc_count": 108,
+            "data": {
+              "value": 0.7417592592592592
+            }
+          },
+          {
+            "key_as_string": "05:00:00",
+            "key": 10800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "06:00:00",
+            "key": 14400000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "07:00:00",
+            "key": 18000000,
+            "doc_count": 108,
+            "data": {
+              "value": 5.783981481481481
+            }
+          },
+          {
+            "key_as_string": "08:00:00",
+            "key": 21600000,
+            "doc_count": 108,
+            "data": {
+              "value": 10.522685185185185
+            }
+          },
+          {
+            "key_as_string": "09:00:00",
+            "key": 25200000,
+            "doc_count": 108,
+            "data": {
+              "value": 15.530833333333332
+            }
+          },
+          {
+            "key_as_string": "10:00:00",
+            "key": 28800000,
+            "doc_count": 108,
+            "data": {
+              "value": 19.467037037037038
+            }
+          },
+          {
+            "key_as_string": "11:00:00",
+            "key": 32400000,
+            "doc_count": 108,
+            "data": {
+              "value": 19.706759259259258
+            }
+          },
+          {
+            "key_as_string": "12:00:00",
+            "key": 36000000,
+            "doc_count": 108,
+            "data": {
+              "value": 15.416666666666666
+            }
+          },
+          {
+            "key_as_string": "13:00:00",
+            "key": 39600000,
+            "doc_count": 108,
+            "data": {
+              "value": 24.621296296296297
+            }
+          },
+          {
+            "key_as_string": "14:00:00",
+            "key": 43200000,
+            "doc_count": 108,
+            "data": {
+              "value": 20.710925925925928
+            }
+          },
+          {
+            "key_as_string": "15:00:00",
+            "key": 46800000,
+            "doc_count": 108,
+            "data": {
+              "value": 33.075185185185184
+            }
+          },
+          {
+            "key_as_string": "16:00:00",
+            "key": 50400000,
+            "doc_count": 108,
+            "data": {
+              "value": 28.410555555555558
+            }
+          },
+          {
+            "key_as_string": "17:00:00",
+            "key": 54000000,
+            "doc_count": 108,
+            "data": {
+              "value": 10.278703703703703
+            }
+          },
+          {
+            "key_as_string": "18:00:00",
+            "key": 57600000,
+            "doc_count": 108,
+            "data": {
+              "value": 1.1533333333333333
+            }
+          },
+          {
+            "key_as_string": "19:00:00",
+            "key": 61200000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "20:00:00",
+            "key": 64800000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "21:00:00",
+            "key": 68400000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "22:00:00",
+            "key": 72000000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          },
+          {
+            "key_as_string": "23:00:00",
+            "key": 75600000,
+            "doc_count": 108,
+            "data": { "value": 0.0 }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "buckets": [
+    {
+      "key": 4,
+      "doc_count": 378,
+      "histogram": {
+        "buckets": [
+          {
+            "key_as_string": "08:00:00",
+            "key": 21600000,
+            "doc_count": 108,
+            "data": {
+              "value": 18.43212962962963
+            }
+          },
+          {
+            "key_as_string": "09:00:00",
+            "key": 25200000,
+            "doc_count": 108,
+            "data": {
+              "value": 30.963796296296298
+            }
+          },
+          {
+            "key_as_string": "10:00:00",
+            "key": 28800000,
+            "doc_count": 108,
+            "data": {
+              "value": 43.92611111111111
+            }
+          },
+          {
+            "key_as_string": "11:00:00",
+            "key": 32400000,
+            "doc_count": 54,
+            "data": {
+              "value": 48.20981481481481
+            }
+          },
+          {
+            "key_as_string": "12:00:00",
+            "key": 36000000,
+            "doc_count": 0,
+            "data": { "value": null }
+          },
+          {
+            "key_as_string": "13:00:00",
+            "key": 39600000,
+            "doc_count": 0,
+            "data": { "value": null }
+          },
+          {
+            "key_as_string": "14:00:00",
+            "key": 43200000,
+            "doc_count": 0,
+            "data": { "value": null }
+          },
+          {
+            "key_as_string": "15:00:00",
+            "key": 46800000,
+            "doc_count": 0,
+            "data": { "value": null }
+          },
+          {
+            "key_as_string": "16:00:00",
+            "key": 50400000,
+            "doc_count": 0,
+            "data": { "value": null }
+          },
+          {
+            "key_as_string": "17:00:00",
+            "key": 54000000,
+            "doc_count": 0,
+            "data": { "value": null }
+          },
+          {
+            "key_as_string": "18:00:00",
+            "key": 57600000,
+            "doc_count": 0,
+            "data": { "value": null }
+          }
+        ]
+      }
+    }
+  ]
+}
