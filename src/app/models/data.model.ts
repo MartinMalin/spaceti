@@ -14,3 +14,8 @@ export interface Day {
     buckets: Array<Hour>;
   };
 }
+
+export interface HistogramData {
+  label: string;
+  value: string;
+}

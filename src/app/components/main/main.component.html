@@ -1,0 +1,8 @@
+<div *ngIf="result$ | async as result">
+    <div class="buttons" *ngFor="let item of datasets; trackBy: trackByFn">
+        <button class="button" [ngClass]="{ selected: datasetNumber$.value === item }" type="button"
+            (click)="datasetNumber$.next(item)">DataSet {{ item }}</button>
+    </div>
+    <app-histogram [data]="result" [weekDays]="weekDays"></app-histogram>
+    <app-color-progress></app-color-progress>
+</div>

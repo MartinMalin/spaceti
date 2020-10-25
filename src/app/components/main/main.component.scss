@@ -1,0 +1,27 @@
+
+@import '../../styles/variables/button-variables.scss';
+
+.buttons {
+    display: inline-flex;
+    padding: 5px;
+}
+
+.button {
+    padding: $button-padding;
+    margin: $button-margin;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    color: $button-text-color;
+    background-color: $button-background;
+    text-align: center;
+    transition: all 0.2s;
+}
+.button:hover {
+    background-color: $button-hover;
+}
+
+.selected {
+    background-color: $button-selected;
+}
+

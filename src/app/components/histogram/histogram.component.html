@@ -1,0 +1,15 @@
+<table>
+    <tbody>
+        <tr *ngFor="let bucket of histogram | keyvalue; let i = index; trackBy: trackByFn">
+            <td>{{ bucket.key | timeFormat }}</td>
+            <td class="histogram-base" *ngFor="let map of bucket.value | keyvalue"
+                [style.background-color]="getBackgroundColor(map.value.value)"></td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td></td>
+            <td *ngFor="let day of weekDays; trackBy: trackByFn">{{ day }}</td>
+        </tr>
+    </tfoot>
+</table>

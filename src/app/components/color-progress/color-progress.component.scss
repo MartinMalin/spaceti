@@ -1,0 +1,14 @@
+$start-color: rgb(255,255,255);
+$end-color: rgb(0, 0, 255);
+
+.progress {
+    display: inline-flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.gradient {
+    width: 400px;
+    height: 10px;
+    background-image: linear-gradient(to right, $start-color, $end-color);
+}
